@@ -1,0 +1,20 @@
+BDD Automation Generator - Portable Version
+
+QUICK START:
+1. Run BDD_Automation_Generator.exe to start the application
+2. Click "Set API Key" to configure your Gemini API key
+3. Select your user stories Excel file
+4. Generate test cases and BDD automation files
+
+API KEY SETUP:
+- Get your free API key from: https://makersuite.google.com/app/apikey
+- Click "Set API Key" in the application to configure it
+
+REQUIREMENTS:
+- No Python installation required (standalone executable)
+- Internet connection for AI features
+- Windows 10 or later (for .exe version)
+
+For detailed instructions, see README.md
+
+© 2025 BDD Automation Generator
